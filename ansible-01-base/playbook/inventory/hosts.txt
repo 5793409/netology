@@ -1,0 +1,12 @@
+[local]
+localhost ansible_connection=local
+
+[el]
+centos7   ansible_host=84.201.157.81  ansible_fqdn=centos.ru-central1.internal
+
+
+[deb]
+ubuntu   ansible_host=51.250.72.36 ansible_fqdn=ubuntu.ru-central1.internal
+
+
+
