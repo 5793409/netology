@@ -63,3 +63,4 @@ Vector v.0.42.0
 
 
 ## Итог
+[Финальный код (ссылка на репозиторий)](https://github.com/5793409/netology/blob/main/ansible-02-playbook/README.md)
