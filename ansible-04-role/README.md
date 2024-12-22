@@ -17,4 +17,4 @@
 [Репозиторий LightHouse](https://github.com/5793409/lighthouse-role)
 
 
-[Финальный код (ссылка на репозиторий)](https://github.com/5793409/netology)
+[Финальный код (ссылка на репозиторий)](https://github.com/5793409/netology/blob/08-ansible-04-role/ansible-04-role/)
